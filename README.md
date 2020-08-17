@@ -1,15 +1,20 @@
-## Demo App built with React Native 0.61 + React Navigation 3.0 + Redux 4.0
+## React Native Demo App built with Expo 36, React Navigation 4, Redux 4
+
+New: [Upgrade to React Navigatin 5](https://github.com/terada46/React-Navigation-5-Radio-app-demo)
+
 
 #### INTRODUCTION
-DEMO模仿自一个日本广播APP，数据与图片均为本地静态资源。基于Expo开发。
+日本广播APP DEMO，数据与图片均为本地静态资源。
 
 #### RUN
 
-在可运行expo平台应用的环境下
+- `expo start` and press `i` for iOS, `a` for Android.
 
-iOS `npm run ios`
+or 
 
-安卓 `npm run android`
+- iOS `npm run ios`
+
+- Android `npm run Android`
 
 
 #### SCREENSHOTS
